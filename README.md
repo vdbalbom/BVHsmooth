@@ -1,12 +1,12 @@
 # BVHsmooth
-Apply smoothing filters to an animation in BVH format.
+Apply smoothening filters to an animation in BVH format.
 
 ## Usage
-To smoothening the **rotations** of the animation run: 
+To smoothen the **rotations** of the animation run: 
 
 ```python code/smooth_rotation.py -i <input_file> -o <output_file> --filter <filter> <params>```
 
-To smoothening the **positions** of the animation run: 
+To smoothen the **positions** of the animation run: 
 
 ```python code/smooth_position.py -i <input_file> -o <output_file> --filter <filter> <params>```
 
@@ -26,9 +26,9 @@ To smoothening the **positions** of the animation run:
 
 ## Example
 
-You can see the results using this [BVH Player](http://www.akjava.com/demo/bvhplayer/).
+You can see the results using [BVH Player](http://www.akjava.com/demo/bvhplayer/).
 
-Let's use the provided BVH file **bvh_files/sample01.bvh**. Which was captured by kinects in CENA(Centro de Tecnologias
+Let's use the provided sample BVH file **bvh_files/sample01.bvh**. Which was captured by kinects in CENA(Centro de Tecnologias
 Narrativas) laboratory, located at the Insituto Politécnico (IPRJ/UERJ).
 
 First, apply the smoothening in rotations:
