@@ -28,8 +28,7 @@ To smoothen the **positions** of the animation run:
 
 You can see the results using [BVH Player](http://www.akjava.com/demo/bvhplayer/).
 
-Let's use the provided sample BVH file **bvh_files/sample01.bvh**. Which was captured by kinects in CENA(Centro de Tecnologias
-Narrativas) laboratory, located at the Insituto Politécnico (IPRJ/UERJ).
+Let's use the provided sample BVH file **bvh_files/sample01.bvh**. The sample file was created by kinect capture method at CENA (Centro de Tecnologias Narrativas) laboratory, located at the Insituto Politécnico (IPRJ/UERJ).
 
 First, apply the smoothening in rotations:
 
